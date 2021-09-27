@@ -24,8 +24,5 @@ public class idade {
         else{
             System.out.println("Idade igual a 25 anos.");
         }
-        
-
     }
-
 }
